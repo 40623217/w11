@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Fall CADP&amp;CP (虎尾科大MDE) - Course</title><link href="https://cpb.kmol.info/40623217/doc/trunk/blog/" rel="alternate"></link><link href="https://cpb.kmol.info/40623217/doc/trunk/blog/feeds/course.atom.xml" rel="self"></link><id>https://cpb.kmol.info/40623217/doc/trunk/blog/</id><updated>2017-11-16T22:30:00+08:00</updated><entry><title>2017 CPb 第十週</title><link href="https://cpb.kmol.info/40623217/doc/trunk/blog/40623217-w10.html" rel="alternate"></link><published>2017-11-16T22:30:00+08:00</published><updated>2017-11-16T22:30:00+08:00</updated><author><name>40623217</name></author><id>tag:cpb.kmol.info,2017-11-16:/40623217/doc/trunk/blog/40623217-w10.html</id><summary type="html">&lt;p&gt;w10&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;w10&lt;/p&gt;
+
+
+&lt;h3&gt;課程內容&lt;/h3&gt;
+&lt;p&gt;如何用SciTe改python裡的start.bat程式碼,當按下可直接叫出Leo editor&lt;/p&gt;
+&lt;p&gt;下載gimp portable 截圖 , dia portable 註解&lt;/p&gt;
+&lt;p&gt;複習上上週Eric6,pyQt5的範圍,了解程式碼與表單個別的處理狀態,建立表單,檢查程式碼,若是要修改程式碼,回到表單,並右鍵  Generate Dialog Code 進入後即可修改.&lt;/p&gt;
+&lt;h3&gt;學習心得&lt;/h3&gt;
+&lt;p&gt;這周是導入周,所以比較輕鬆,但之後必須要弄程式碼就覺得很難.&lt;/p&gt;</content><category term="2017fall"></category><category term="CPb"></category><category term="w10"></category></entry><entry><title>計算機程式第九週學習心得</title><link href="https://cpb.kmol.info/40623217/doc/trunk/blog/40623217-w9.html" rel="alternate"></link><published>2017-11-06T04:00:00+08:00</published><updated>2017-11-06T04:00:00+08:00</updated><author><name>40623217</name></author><id>tag:cpb.kmol.info,2017-11-06:/40623217/doc/trunk/blog/40623217-w9.html</id><summary type="html">&lt;p&gt;w9&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;w9&lt;/p&gt;
+
+
+&lt;h3&gt;課程內容&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://cpb.kmol.info/40623217/doc/trunk/index.html#/|投影片"&gt;https://cpb.kmol.info/40623217/doc/trunk/index.html#/|投影片&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;操作影片&lt;/h3&gt;
+&lt;iframe width="600" height="500" src="https://www.youtube.com/embed/4N7XdqhuyrY" frameborder="0" gesture="media" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/241458630" width="600" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/241458630"&gt;-機械設計工程系-計算機程式-40623217-w9&lt;/a&gt; from &lt;a href="https://vimeo.com/user73268349"&gt;楊傅博&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3&gt;學習心得&lt;/h3&gt;
+&lt;p&gt;今天是考試驗收,報告,今天自己時間控制不當,沒能在時間內說出全部的內容,經歷此事,我想應該能取捨自己的內容是那些.&lt;/p&gt;</content><category term="2017fall"></category><category term="CPb"></category><category term="w9"></category></entry><entry><title>計算機程式第八週學習心得</title><link href="https://cpb.kmol.info/40623217/doc/trunk/blog/40623217-w8.html" rel="alternate"></link><published>2017-11-04T16:00:00+08:00</published><updated>2017-11-04T16:00:00+08:00</updated><author><name>40623217</name></author><id>tag:cpb.kmol.info,2017-11-04:/40623217/doc/trunk/blog/40623217-w8.html</id><summary type="html">&lt;p&gt;w8&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;w8&lt;/p&gt;
+
+
+&lt;h3&gt;操作影片&lt;/h3&gt;
+&lt;iframe src="https://player.vimeo.com/video/241286209" width="600" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/241286209"&gt;-機械設計工程系-計算機程式-40623217-w8&lt;/a&gt; from &lt;a href="https://vimeo.com/user73268349"&gt;楊傅博&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;iframe width="600" height="500" src="https://www.youtube.com/embed/HKXKeEKUp0o" frameborder="0" gesture="media" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h3&gt;學習心得&lt;/h3&gt;
+&lt;p&gt;經過好幾周的磨練跟摧殘,我想至少沒有一開始的弱太多,但願後面所教的東西能一次就了解清楚&lt;/p&gt;</content><category term="2017fall"></category><category term="CPb"></category><category term="w8"></category></entry><entry><title>計算機程式第七週學習心得</title><link href="https://cpb.kmol.info/40623217/doc/trunk/blog/40623217-2017-fall-cp-w7-exam.html" rel="alternate"></link><published>2017-10-24T23:50:00+08:00</published><updated>2017-10-24T23:50:00+08:00</updated><author><name>40623217</name></author><id>tag:cpb.kmol.info,2017-10-24:/40623217/doc/trunk/blog/40623217-2017-fall-cp-w7-exam.html</id><summary type="html">&lt;p&gt;w7-exam&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;w7-exam&lt;/p&gt;
+
+
+&lt;h3&gt;操作影片&lt;/h3&gt;
+&lt;iframe src="https://player.vimeo.com/video/239842258" width="600" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/239842258"&gt;-機械設計工程系-計算機程式-40623217&lt;/a&gt; from &lt;a href="https://vimeo.com/user73268349"&gt;楊傅博&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;iframe width="600" height="500" src="https://www.youtube.com/embed/sO9LKXAbvIs" frameborder="0" gesture="media" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h3&gt;學習心得&lt;/h3&gt;
+&lt;p&gt;剛開始我完全聽不懂,因為覺得一切皆是浮雲,基本上都要自己花時間到宿舍研究,不然就像是空虛的空堂.雖說不是要練的專精,但要我輕易放掉,說實在有點顧慮,我知道自己就是因為太爛所以才要花這麼多的時間習慣英文的程式,以及電腦的程式語言.這幾周過很快,可是實際上操作其實連個十分鐘的時間都不到,這是令自己絕望的差距,所以我都準時地到達上課,不敢睡覺,筆記也是回去宿舍看影片一五一十的寫下來步驟,目的就只是想拿到學分,不想再跟做剛開始一樣持續的重來,這是我這幾周來的想法跟心聲.&lt;/p&gt;
+&lt;h3&gt;自評成績&lt;/h3&gt;
+&lt;p&gt;每週出席情況:100&lt;/p&gt;
+&lt;p&gt;紙本筆記:80&lt;/p&gt;
+&lt;p&gt;隨身碟內容:70&lt;/p&gt;
+&lt;p&gt;個人倉儲內容:65&lt;/p&gt;
+&lt;p&gt;各週上課摘要:65&lt;/p&gt;
+&lt;p&gt;自評分數:70&lt;/p&gt;</content><category term="2017fall"></category><category term="CPb"></category><category term="w7"></category><category term="exam"></category></entry><entry><title>2017 Fall CADP 第七週考試驗收</title><link href="https://cpb.kmol.info/40623217/doc/trunk/blog/40623217-2017-fall-cadp-w7-exam.html" rel="alternate"></link><published>2017-10-23T11:00:00+08:00</published><updated>2017-10-23T11:00:00+08:00</updated><author><name>40623217</name></author><id>tag:cpb.kmol.info,2017-10-23:/40623217/doc/trunk/blog/40623217-2017-fall-cadp-w7-exam.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;h3&gt;操作影片&lt;/h3&gt;
+&lt;h3&gt;學習心得&lt;/h3&gt;
+&lt;h3&gt;自評成績&lt;/h3&gt;</content><category term="2017fall"></category><category term="CADP"></category><category term="w7"></category><category term="exam"></category></entry><entry><title>2017 CPb 第六週</title><link href="https://cpb.kmol.info/40623217/doc/trunk/blog/40623217-w6.html" rel="alternate"></link><published>2017-10-16T22:00:00+08:00</published><updated>2017-10-16T22:00:00+08:00</updated><author><name>40623217</name></author><id>tag:cpb.kmol.info,2017-10-16:/40623217/doc/trunk/blog/40623217-w6.html</id><summary type="html">&lt;p&gt;w6&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;w6&lt;/p&gt;
+
+
+&lt;h3&gt;課程內容&lt;/h3&gt;
+&lt;p&gt;今日是複習如何從python中的fossil格式去fossil clone自己的倉儲,打完後fossil open過後再開啟Leo editor維護好網誌或是新增好後,到近端plican檢查再用server連結近端,有了之後再回到Leo editor丟去github到遠端,好了後再回fossil程式fossil add .將全部加入,之後用fossil status檢查是否有missing的東西,若是有使用fossil delete消除,最後才用fossil commit-m".........."上傳到遠端,再到自己的Blog檢查是否有傳上&lt;/p&gt;
+&lt;h3&gt;學習心得&lt;/h3&gt;
+&lt;p&gt;今天其實就很輕鬆,基本上就複習曾經的東西,整體來說很輕鬆就是了,不過還是怕考試可能考不好而已.&lt;/p&gt;</content><category term="2017fall"></category><category term="CPb"></category><category term="w6"></category></entry><entry><title>2017 CPb 第四週</title><link href="https://cpb.kmol.info/40623217/doc/trunk/blog/40623217-w4.html" rel="alternate"></link><published>2017-10-04T23:00:00+08:00</published><updated>2017-10-04T23:00:00+08:00</updated><author><name>40623217</name></author><id>tag:cpb.kmol.info,2017-10-04:/40623217/doc/trunk/blog/40623217-w4.html</id><summary type="html">&lt;p&gt;w4&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;w4&lt;/p&gt;
+
+
+&lt;h3&gt;課程內容&lt;/h3&gt;
+&lt;p&gt;繼上周的fossil的程式語言的打法輸入,今日又開啟Leo editor,
+學習如何維護網誌新增自己所要的網誌,以及近端與遠端的操作方式,達到網頁上是否於無網路情況下查看近端,再有網路時可以看見遠端內容及留言板.&lt;/p&gt;
+&lt;h3&gt;學習心得&lt;/h3&gt;
+&lt;p&gt;今天也是跟上星期一樣的感覺,真的好難,雖然好像很多人也這麼感覺,但是沒做就覺得不行,我仍然去尋求會的同學幫助.&lt;/p&gt;</content><category term="2017fall"></category><category term="CPb"></category><category term="w4"></category></entry><entry><title>2017 CPb 第三週</title><link href="https://cpb.kmol.info/40623217/doc/trunk/blog/40623217-w3.html" rel="alternate"></link><published>2017-09-26T20:00:00+08:00</published><updated>2017-09-26T20:00:00+08:00</updated><author><name>40623217</name></author><id>tag:cpb.kmol.info,2017-09-26:/40623217/doc/trunk/blog/40623217-w3.html</id><summary type="html">&lt;p&gt;w3&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;w3&lt;/p&gt;
+
+
+&lt;h3&gt;課程內容&lt;/h3&gt;
+&lt;p&gt;正式進入如何打python的fossil語言格式&lt;/p&gt;
+&lt;p&gt;fossil clone &lt;/p&gt;
+&lt;p&gt;fossil open&lt;/p&gt;
+&lt;p&gt;fossil add&lt;/p&gt;
+&lt;p&gt;fossil status&lt;/p&gt;
+&lt;p&gt;fossil commit&lt;/p&gt;
+&lt;p&gt;諸如此類的特定的方式&lt;/p&gt;
+&lt;h3&gt;學習心得&lt;/h3&gt;
+&lt;p&gt;今天的東西不是說難就可以解決,這東西看了影片仍是一片浮雲,真的不知道該怎麼打,而且也不懂意思.&lt;/p&gt;</content><category term="2017fall"></category><category term="CPb"></category><category term="w3"></category></entry><entry><title>2017 CPb 第二週</title><link href="https://cpb.kmol.info/40623217/doc/trunk/blog/40623217-cpb-w2.html" rel="alternate"></link><published>2017-09-20T22:00:00+08:00</published><updated>2017-09-20T22:00:00+08:00</updated><author><name>40623217</name></author><id>tag:cpb.kmol.info,2017-09-20:/40623217/doc/trunk/blog/40623217-cpb-w2.html</id><summary type="html">&lt;p&gt;w2&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;w2&lt;/p&gt;
+
+
+&lt;h3&gt;課程內容&lt;/h3&gt;
+&lt;p&gt;到個人的倉儲編輯網頁的連結網址&lt;/p&gt;
+&lt;p&gt;EX:[https://............|XXX] = XXX
+(點下即可進入此網頁)&lt;/p&gt;
+&lt;h3&gt;學習心得&lt;/h3&gt;
+&lt;p&gt;這個編輯方式雖然曾經學過,但也忘的差不多,
+今天是第二周,但如此輕鬆的感覺,代表下星期有很難的東西要來了.&lt;/p&gt;</content><category term="2017fall"></category><category term="CPb"></category></entry><entry><title>2017 CPb 第一週</title><link href="https://cpb.kmol.info/40623217/doc/trunk/blog/40623217-w1.html" rel="alternate"></link><published>2017-09-11T21:00:00+08:00</published><updated>2017-09-11T21:00:00+08:00</updated><author><name>40623217</name></author><id>tag:cpb.kmol.info,2017-09-11:/40623217/doc/trunk/blog/40623217-w1.html</id><summary type="html">&lt;p&gt;w1&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;w1&lt;/p&gt;
+
+
+&lt;h3&gt;學習心得&lt;/h3&gt;
+&lt;p&gt;今天是第一周,只有講個概略,雖然只是介紹python,但似乎很難.&lt;/p&gt;</content><category term="2017fall"></category><category term="CPb"></category><category term="w1"></category></entry></feed>
